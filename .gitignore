@@ -6,6 +6,9 @@ ehthumbs_vista.db
 # Dump file
 *.stackdump
 
+#idea files
+*.idea
+
 # Folder config file
 [Dd]esktop.ini
 
@@ -20,3 +23,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
